@@ -1,5 +1,5 @@
 # Future Funk #
-Color scheme for Sublime Text 2.
+An easy to read dark color scheme for Sublime Text 2.
 
 ## Installation ##
 1. Clone the repo to your Packages folder.
