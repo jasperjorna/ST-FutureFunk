@@ -12,3 +12,5 @@ HTML
 ![Future Funk - HTML](https://raw.github.com/Twiebie/ST-FutureFunk/master/examples/FutureFunk-HTML.jpg)
 CSS
 ![Future Funk - CSS](https://raw.github.com/Twiebie/ST-FutureFunk/master/examples/FutureFunk-CSS.jpg)
+
+Font used in the examples is [Adobe Source Code Pro](https://github.com/adobe/source-code-pro).
