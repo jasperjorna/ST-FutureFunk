@@ -24,4 +24,7 @@ HTML
 CSS
 ![Future Funk - CSS](https://raw.github.com/Twiebie/ST-FutureFunk/master/examples/FutureFunk-CSS.jpg)
 
+JS
+![Future Funk - CSS](https://raw.github.com/Twiebie/ST-FutureFunk/master/examples/FutureFunk-JS.jpg)
+
 Font used in the examples is [Adobe Source Code Pro](https://github.com/adobe/source-code-pro).
