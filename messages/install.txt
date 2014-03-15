@@ -1,0 +1,8 @@
+Hi,
+
+Activate the colour scheme via Preferences -> Color Scheme -> ST-FutureFunk -> Future Funk.
+Choose Blue Monday for a deep blue version or Grey Tuesday for a dark grey version.
+
+Restart Sublime Text to make sure all changes are applied.
+
+Enjoy!
