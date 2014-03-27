@@ -1,0 +1,6 @@
+Hi,
+
+Future Funk has been updated with support for Git Diff.
+Thanks kernelp4nic!
+
+Happy coding!
