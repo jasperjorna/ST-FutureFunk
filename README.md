@@ -22,3 +22,5 @@ An easy to read dark colour scheme for Sublime Text 2 and 3. It comes in 2 flavo
 ![image](http://twiebie.com/screenshots/Spacefunk/GreyTuesday/Spacefunk%20-%20Grey%20Tuesday%20-%20PHP.png)
 
 Font used in the examples is [Adobe Source Code Pro](https://github.com/adobe/source-code-pro).
+
+Theme shown in the examples is [Spacefunk](https://sublime.wbond.net/packages/Theme%20-%20Spacefunk).
