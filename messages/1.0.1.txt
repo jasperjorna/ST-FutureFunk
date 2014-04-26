@@ -1,3 +1,5 @@
+v1.0.1 (27-03-2014)
+-------------------
 Hi,
 
 Future Funk has been updated with support for Git Diff.
