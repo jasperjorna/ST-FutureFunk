@@ -1,0 +1,6 @@
+v1.0.2 (30-06-2014)
+-------------------
+
+Added a colour for the 'support.class.php' scope.
+
+Happy coding!

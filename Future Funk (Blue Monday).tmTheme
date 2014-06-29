@@ -253,8 +253,8 @@
                 <string>support.type, support.class</string>
                 <key>settings</key>
                 <dict>
-                    <key>fontStyle</key>
-                    <string />
+                    <key>foreground</key>
+                    <string>#9ac2e3</string>
                 </dict>
             </dict>
             <dict>
