@@ -28,11 +28,11 @@
                     <key>bracketsForeground</key>
                     <string>#00b3ff</string>
                     <key>bracketsOptions</key>
-                    <string>solid</string>
+                    <string>underline</string>
                     <key>bracketContentsForeground</key>
                     <string>#00b3ff</string>
                     <key>bracketContentsOptions</key>
-                    <string>solid</string>
+                    <string>underline</string>
                 </dict>
             </dict>
             <dict>

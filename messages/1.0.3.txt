@@ -1,0 +1,6 @@
+v1.0.3 (02-08-2014)
+-------------------
+
+Fixed bracket highlighting.
+
+Happy coding!
