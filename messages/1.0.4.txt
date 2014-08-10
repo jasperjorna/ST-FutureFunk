@@ -1,0 +1,6 @@
+v1.0.4 (10-08-2014)
+-------------------
+
+Added support for Markdown syntax.
+
+Happy coding!
