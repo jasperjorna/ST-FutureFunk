@@ -16,10 +16,10 @@ An easy to read dark colour scheme for Sublime Text 2 and 3. It comes in 2 flavo
 ## Examples ##
 
 #### Blue Monday
-![image](http://twiebie.com/screenshots/Spacefunk/BlueMonday/Spacefunk%20-%20Blue%20Monday%20-%20PHP.png)
+![image](http://i.imgur.com/tkbsNlI.png)
 
 #### Grey Tuesday
-![image](http://twiebie.com/screenshots/Spacefunk/GreyTuesday/Spacefunk%20-%20Grey%20Tuesday%20-%20PHP.png)
+![image](http://i.imgur.com/jCAd3Af.png)
 
 Font used in the examples is [Adobe Source Code Pro](https://github.com/adobe/source-code-pro).
 
