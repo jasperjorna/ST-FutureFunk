@@ -39,11 +39,11 @@
                 <key>name</key>
                 <string>Comment</string>
                 <key>scope</key>
-                <string>comment</string>
+                <string>comment, punctuation.definition.comment</string>
                 <key>settings</key>
                 <dict>
                     <key>fontStyle</key>
-                    <string />
+                    <string>italic</string>
                     <key>foreground</key>
                     <string>#9badbd</string>
                 </dict>
