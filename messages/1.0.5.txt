@@ -1,0 +1,7 @@
+v1.0.5 (11-11-2016)
+-------------------
+
+Support italic comments for fonts such as Operator Mono.
+Credits to Carl Mercier (cmer)
+
+Happy coding!
